@@ -12,8 +12,6 @@
 ## Files
 - `workbook/E-Commerce Dashboard dataset.xlsx` — (sample or link)
 - `docs/screenshots/` — dashboard previews
-- `project_summary.md` — concise project bullets
-
 ## Tools & Techniques
 Excel, Pivot Tables, Combo Boxes, Charts, Data Analysis Add-in, (optional) Python automation for reporting.
 
